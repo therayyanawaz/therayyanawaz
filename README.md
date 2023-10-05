@@ -70,8 +70,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/therayyanawaz/therayyanawaz/output/snake.svg" alt="Snake animation" />
-
-###
