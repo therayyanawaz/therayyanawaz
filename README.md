@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Hello+TechGeeks+%3C%2F%3E)](https://git.io/typing-svg)
 <br clear="both">
 
 <h1 align="left">Hi 👋! My name is Md Rayyan Nawaz and I'm a Open Source and Frontend Dev from India</h1>
