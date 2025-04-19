@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Hello+TechGeeks+%3C%2F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000¢er=true&vCenter=true&multiline=true&random=true&width=435&lines=Hello+TechGeeks+%3C%2F%3E)](https://git.io/typing-svg)
 <br clear="both">
 
 <h1 align="left">Hi 👋! My name is Md Rayyan Nawaz and I'm a Open Source and Frontend Dev from India</h1>
@@ -10,6 +10,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=therayyanawaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=therayyanawaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/therayyanawaz.png" alt="Your Image Badge" />
 </div>
 
 ###
@@ -25,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt establis="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -69,14 +73,14 @@
   </a>
 </div>
 
+###
 
 <div align="center">
   <a href="https://github.com/CatsJuice/ssr-contributions-img">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/therayyanawaz?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
       <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/therayyanawaz?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
-      <img alt="" src="[https://ssr-contributions-svg.vercel.app/_/therayyanawaz?chart=3dbar&flatten=1&weeks=40&animation=wave&format=svg&gap=0.6&animation_frequency=0.2&animation_amplitude=20&theme=pink](https://ssr-contributions-svg.vercel.app/_/CatsJuice?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native)" >
+      <img alt="GitHub contributions graph" src="https://ssr-contributions-svg.vercel.app/_/therayyanawaz?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
     </picture>
   </a>
 </div>
-
