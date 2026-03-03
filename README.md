@@ -40,7 +40,7 @@ I care about clean architecture, reusable tooling, and high-signal documentation
 
 ## Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,python,bash,nodejs,linux,git,github,cloudflare,aws" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,html,css,python,bash,nodejs,express,mongodb,postgres,docker,linux,git,github,cloudflare,aws" alt="Tech stack" />
 </div>
 
 ## GitHub Snapshot
