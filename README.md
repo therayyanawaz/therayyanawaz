@@ -51,8 +51,15 @@ I care about clean architecture, reusable tooling, and high-signal documentation
 
 ## GitHub Snapshot
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=therayyanawaz&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therayyanawaz&layout=compact&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/therayyanawaz?tab=followers">
+    <img src="https://img.shields.io/github/followers/therayyanawaz?style=for-the-badge&label=Followers" alt="Followers" />
+  </a>
+  <a href="https://github.com/therayyanawaz?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-0A66C2?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
+  <a href="https://github.com/therayyanawaz?tab=achievements">
+    <img src="https://img.shields.io/badge/Achievements-View%20Profile-111111?style=for-the-badge&logo=github" alt="Achievements" />
+  </a>
 </div>
 
 <div align="center">
