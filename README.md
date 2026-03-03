@@ -2,15 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=0A66C2&center=true&vCenter=true&repeat=true&width=780&lines=Md+Rayyan+Nawaz;Open+Source+Developer;Frontend+Engineer+%7C+Security+Automation+Builder" alt="Typing intro" />
 
   <p>
-    <a href="https://github.com/therayyanawaz?tab=followers">
-      <img src="https://img.shields.io/github/followers/therayyanawaz?label=Followers&style=for-the-badge" alt="GitHub followers" />
-    </a>
-    <a href="https://github.com/therayyanawaz?tab=repositories">
-      <img src="https://img.shields.io/badge/Public%20Repos-View%20All-0A66C2?style=for-the-badge" alt="Public repos" />
-    </a>
-    <a href="https://github.com/therayyanawaz?tab=achievements">
-      <img src="https://img.shields.io/badge/GitHub-Achievements-111111?style=for-the-badge&logo=github" alt="GitHub achievements" />
-    </a>
+    <img src="https://img.shields.io/badge/Open%20Source-Builder-0A66C2?style=for-the-badge" alt="Open source builder" />
+    <img src="https://img.shields.io/badge/Frontend-Engineer-1F6FEB?style=for-the-badge" alt="Frontend engineer" />
+    <img src="https://img.shields.io/badge/Security-Automation-111111?style=for-the-badge" alt="Security automation" />
   </p>
 </div>
 
