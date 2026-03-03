@@ -1,26 +1,26 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=0A66C2&center=true&vCenter=true&repeat=true&width=780&lines=Md+Rayyan+Nawaz;Open+Source+Developer;Frontend+Engineer+%7C+Security+Automation+Builder" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=0A66C2&center=true&vCenter=true&repeat=true&width=780&lines=Md+Rayyan+Nawaz;Open+Source+Developer;Backend+Engineer+%7C+Security+Automation+Builder" alt="Typing intro" />
 
   <p>
     <img src="https://img.shields.io/badge/Open%20Source-Builder-0A66C2?style=for-the-badge" alt="Open source builder" />
-    <img src="https://img.shields.io/badge/Frontend-Engineer-1F6FEB?style=for-the-badge" alt="Frontend engineer" />
+    <img src="https://img.shields.io/badge/Backend-Engineer-1F6FEB?style=for-the-badge" alt="Backend engineer" />
     <img src="https://img.shields.io/badge/Security-Automation-111111?style=for-the-badge" alt="Security automation" />
   </p>
 </div>
 
 ## About
 I am **Md Rayyan Nawaz**, an open source developer from India focused on building practical products across:
-- Frontend engineering and modern web stacks
+- Backend engineering and scalable systems
 - Security tooling and automation
-- Developer-focused CLI workflows
+- Developer-focused API and CLI workflows
 
 I care about clean architecture, reusable tooling, and high-signal documentation.
 
 ## Focus Areas
 <table>
   <tr>
-    <td><strong>Frontend</strong></td>
-    <td>React, TypeScript, component-driven UI, and performance-minded web apps.</td>
+    <td><strong>Backend</strong></td>
+    <td>Node.js, Python, API design, data pipelines, and reliability-focused backend services.</td>
   </tr>
   <tr>
     <td><strong>Security</strong></td>
@@ -28,7 +28,7 @@ I care about clean architecture, reusable tooling, and high-signal documentation
   </tr>
   <tr>
     <td><strong>Automation</strong></td>
-    <td>GitHub CLI/API-driven pipelines for repeatable and reliable engineering tasks.</td>
+    <td>GitHub CLI/API-driven pipelines, CI workflows, and repeatable engineering operations.</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@ I care about clean architecture, reusable tooling, and high-signal documentation
 
 ## Tech Stack
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,html,css,python,bash,nodejs,express,mongodb,postgres,docker,linux,git,github,cloudflare,aws" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,bash,postgres,mongodb,docker,linux,aws,cloudflare,git,github,ts,js,react,nextjs,vite,tailwind,html,css" alt="Tech stack" />
 </div>
 
 ## GitHub Snapshot
