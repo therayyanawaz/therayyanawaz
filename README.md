@@ -1,83 +1,81 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Hello+TechGeeks+%3C%2F%3E" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2600&pause=1000&color=0A66C2&center=true&vCenter=true&repeat=true&width=780&lines=Md+Rayyan+Nawaz;Open+Source+Developer;Frontend+Engineer+%7C+Security+Automation+Builder" alt="Typing intro" />
 
-<h1 align="left">Hi 👋! My name is Md Rayyan Nawaz and I'm a Open Source and Frontend Dev from India</h1>
+  <p>
+    <a href="https://github.com/therayyanawaz?tab=followers">
+      <img src="https://img.shields.io/github/followers/therayyanawaz?label=Followers&style=for-the-badge" alt="GitHub followers" />
+    </a>
+    <a href="https://github.com/therayyanawaz?tab=repositories">
+      <img src="https://img.shields.io/badge/Public%20Repos-View%20All-0A66C2?style=for-the-badge" alt="Public repos" />
+    </a>
+    <a href="https://github.com/therayyanawaz?tab=achievements">
+      <img src="https://img.shields.io/badge/GitHub-Achievements-111111?style=for-the-badge&logo=github" alt="GitHub achievements" />
+    </a>
+  </p>
+</div>
 
-###
+## About
+I am **Md Rayyan Nawaz**, an open source developer from India focused on building practical products across:
+- Frontend engineering and modern web stacks
+- Security tooling and automation
+- Developer-focused CLI workflows
 
-<br clear="both">
+I care about clean architecture, reusable tooling, and high-signal documentation.
+
+## Focus Areas
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React, TypeScript, component-driven UI, and performance-minded web apps.</td>
+  </tr>
+  <tr>
+    <td><strong>Security</strong></td>
+    <td>Lightweight scanners, reconnaissance helpers, and workflow automation for safer systems.</td>
+  </tr>
+  <tr>
+    <td><strong>Automation</strong></td>
+    <td>GitHub CLI/API-driven pipelines for repeatable and reliable engineering tasks.</td>
+  </tr>
+</table>
+
+## Featured Projects
+- [Crawl-Job](https://github.com/therayyanawaz/Crawl-Job): Job board scraping system built with TypeScript.
+- [VulnScanner](https://github.com/therayyanawaz/VulnScanner): Open-source vulnerability scanner for web, network, and local checks.
+- [InstaUnfollow](https://github.com/therayyanawaz/InstaUnfollow): Utility to find accounts that do not follow back.
+- [ScriptKiddie](https://github.com/therayyanawaz/ScriptKiddie): Security and testing scripts toolkit.
+
+## Tech Stack
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,html,css,python,bash,nodejs,linux,git,github,cloudflare,aws" alt="Tech stack" />
+</div>
+
+## GitHub Snapshot
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=therayyanawaz&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therayyanawaz&layout=compact&hide_border=true" alt="Top languages" />
+</div>
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/therayyanawaz.png" alt="Your Image Badge" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/therayyanawaz?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native" alt="Contributions graph" />
 </div>
 
-###
-
-<img align="right" height="150" src="https://64.media.tumblr.com/4f1f29b057f67d01024650b00bd70648/098e047c75c0d41c-64/s640x960/eafe713f7bb1010dd4deb23fd40e986a4e8556d5.png"  />
-
-###
-
+## Community and Contact
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt establis="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
-</div>
-
-###
-
-<div align="left">
+  <a href="https://linkedin.com/in/therayyanawaz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://instagram.com/therayyanawaz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:therayyanawaz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://linkedin.com/in/therayyanawaz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://linktr.ee/therayyanawaz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
+    <img src="https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
   </a>
 </div>
 
-###
-
-<div align="center">
-  <a href="https://github.com/CatsJuice/ssr-contributions-img">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/therayyanawaz?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native&dark=true">
-      <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/therayyanawaz?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
-      <img alt="GitHub contributions graph" src="https://ssr-contributions-svg.vercel.app/_/therayyanawaz?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=native">
-    </picture>
-  </a>
+## Learning and Practice
+<div align="left">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/therayyanawaz.png" alt="TryHackMe badge" />
 </div>
