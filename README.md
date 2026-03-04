@@ -48,7 +48,6 @@ I care about clean architecture, reusable tooling, and high-signal documentation
   <img src="https://komarev.com/ghpvc/?username=therayyanawaz&style=for-the-badge&label=Profile+Views&color=0A66C2" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/therayyanawaz?style=for-the-badge&logo=github&label=Followers&labelColor=0B1220&color=1F6FEB" alt="GitHub followers" />
 </div>
-<p align="center"><sub>Live telemetry with a clean midnight-blue palette.</sub></p>
 
 <div align="center">
   <picture>
